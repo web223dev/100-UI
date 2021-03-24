@@ -328,6 +328,10 @@ button {
           align-items: center;
 }
 
+.footer .container .copyright {
+  color: var(--dark-color);
+}
+
 .footer .container .social {
   display: -webkit-box;
   display: -ms-flexbox;
